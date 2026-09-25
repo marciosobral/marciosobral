@@ -36,6 +36,23 @@ Most of my work lives in private repositories, so this profile is quieter than t
 
 ## Hit me up
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-191b1d?style=for-the-badge)](https://linkedin.com/in/marciosobral)
-[![Email](https://img.shields.io/badge/Email-191b1d?style=for-the-badge)](mailto:me@marciosobral.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-191b1d?style=for-the-badge)](https://marciosobral.com)
+<p>
+  <a href="https://linkedin.com/in/marciosobral">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-f4f4f5?style=for-the-badge">
+      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-191b1d?style=for-the-badge">
+    </picture>
+  </a>
+  <a href="mailto:me@marciosobral.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-f4f4f5?style=for-the-badge">
+      <img alt="Email" src="https://img.shields.io/badge/Email-191b1d?style=for-the-badge">
+    </picture>
+  </a>
+  <a href="https://marciosobral.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Portfolio-f4f4f5?style=for-the-badge">
+      <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-191b1d?style=for-the-badge">
+    </picture>
+  </a>
+</p>
