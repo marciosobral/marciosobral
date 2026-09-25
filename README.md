@@ -1,23 +1,41 @@
 # Márcio Sobral
 
-Full Stack Developer with 8+ years of experience building scalable, high-performance web applications. Strong focus on technical SEO, performance optimization, security-first development, and clean code practices. Background in Cybersecurity.
+Full Stack Developer, 8+ years. I build products end to end, web and mobile, and I spend most of my time where systems have to talk to each other: payments, messaging, ERPs, logistics. Background in Cybersecurity.
 
-## Tech Stack
+Most of my work lives in private repositories, so this profile is quieter than the work is.
 
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis" />
-</div>
+## What I do
+
+**Applied AI.** WhatsApp agents for support and collections, wired into the ERP a company already runs and answering from its own data. RAG, tool calling, LLM observability.
+
+**Integrations.** Payments, messaging, logistics, e-signature, tax invoicing.
+
+**Payments.** Checkout, recurring billing, installments, PIX, and an app that runs inside the card terminal itself.
+
+**End to end.** From the Figma prototype to the deploy. Front-end, back-end, database, infrastructure.
+
+## Stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-191b1d?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-191b1d?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-191b1d?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-191b1d?style=for-the-badge&logo=react&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-191b1d?style=for-the-badge&logo=expo&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-191b1d?style=for-the-badge&logo=kotlin&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-191b1d?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-191b1d?style=for-the-badge&logo=nestjs&logoColor=white)
+![AdonisJS](https://img.shields.io/badge/AdonisJS-191b1d?style=for-the-badge&logo=adonisjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-191b1d?style=for-the-badge&logo=graphql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-191b1d?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-191b1d?style=for-the-badge&logo=prisma&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-191b1d?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-191b1d?style=for-the-badge&logo=docker&logoColor=white)
+![Pulumi](https://img.shields.io/badge/Pulumi-191b1d?style=for-the-badge&logo=pulumi&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-191b1d?style=for-the-badge&logo=jest&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-191b1d?style=for-the-badge&logo=figma&logoColor=white)
 
 ## Hit me up
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=&logoColor=white)](https://linkedin.com/in/marciosobral)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=&logoColor=white)](mailto:contato@marciosobral.com.br)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=&logoColor=white)](https://www.marciosobral.com.br/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-191b1d?style=for-the-badge)](https://linkedin.com/in/marciosobral)
+[![Email](https://img.shields.io/badge/Email-191b1d?style=for-the-badge)](mailto:me@marciosobral.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-191b1d?style=for-the-badge)](https://marciosobral.com)
